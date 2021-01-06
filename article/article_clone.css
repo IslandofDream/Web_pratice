@@ -1,0 +1,94 @@
+.main{
+    border: red solid;
+    margin: 0 auto;
+    padding: 30px;
+    max-width: 600px;
+}
+
+.top{
+    padding: 30px;
+    text-align: left;
+    font-size: 30px;
+    color : #060606;
+
+}
+.name{
+    text-align: center;
+    font-size: 30px;
+}
+.time_desc{
+    text-align: right;
+}
+
+.time{
+    font-size: 13px;
+}
+
+.buttons{
+    border: 1px aqua solid;
+    margin: 2px 2px;
+    background-color: #f0f0f0;
+}
+
+
+
+
+.img_box{
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px 20px 0 20px;
+    margin: 5px 30px;
+    color: red;
+}
+
+.caption{
+    font-size: 13px;
+    color: #909090;
+}
+
+.second{
+    padding: 40px 0;
+}
+
+.first p{
+    text-align: center;
+}
+
+.second p{
+    text-align: center;
+}
+
+.third p {
+    text-align: center;
+}
+
+
+footer{
+    padding: 5px 5px;
+}
+
+footer li{
+    padding: 3px 3px;
+}
+
+.famous{
+    padding: 30px 30px;
+}
+
+
+.famous a:hover{
+    color: cornflowerblue;
+
+}
+
+
+.related{
+    padding: 30px 30px;
+}
+.related a:hover{
+    color: aquamarine;
+}
+
+.related > li{
+    list-style : square;
+}
